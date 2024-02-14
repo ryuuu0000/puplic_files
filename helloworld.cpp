@@ -1,4 +1,4 @@
-// 仮置き
+// 仮置きです。
 #include<iostream>
 
 int main(){
